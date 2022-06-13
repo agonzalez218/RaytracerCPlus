@@ -8,6 +8,7 @@ The following image is an example scene that shows reflections, shadows, and tra
 
 The following image is a scene I created on my own:  
 It shows three spheres, each reflecting on each other and showing shadows on each other. 
+
 ![AbelGonzalezLab6c](https://user-images.githubusercontent.com/60588691/173271910-8343ec41-2b60-4a8f-ba42-e5b6e658e5b2.png)
 
 The Raytracer works by supplying it with a scene file, then it generates the image of the scene from the view and parameters specified.
